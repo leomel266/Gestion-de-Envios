@@ -1,6 +1,9 @@
 # Gestion de Envios
  Django-Css-Sqlite
+ ## Aplicacion Web que cuenta con "5" secciones (Home, Servicios, Tienda, Contacto y Blog).
+ **Es necesario instalar requeriments.txt que se encuentra disponible**
 -- Seccion Home.
+
 ++ Cuenta con informacion sobre la aplicacion de la empresa.
 
 [![Captura-de-pantalla-2022-03-13-193744.png](https://i.postimg.cc/vmfGfKB7/Captura-de-pantalla-2022-03-13-193744.png)](https://postimg.cc/PLfGk21N)
