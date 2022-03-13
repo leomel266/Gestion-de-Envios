@@ -7,9 +7,9 @@
  Proyecto que me propuse practiar usando las herramientas como Django, Css y una base de datos como Sqlite3, esta aplicacion es secilla y facil de usar.
 
 
-**Seccion Home**.
+**Seccion Home**
 
-+Cuenta con informacion sobre la aplicacion de la empresa.
++ Cuenta con informacion sobre la aplicacion de la empresa.
 
 [![Captura-de-pantalla-2022-03-13-193744.png](https://i.postimg.cc/vmfGfKB7/Captura-de-pantalla-2022-03-13-193744.png)](https://postimg.cc/PLfGk21N)
 
