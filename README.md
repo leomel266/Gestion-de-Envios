@@ -9,7 +9,7 @@
 
 **Seccion Home**.
 
-Cuenta con informacion sobre la aplicacion de la empresa.
++Cuenta con informacion sobre la aplicacion de la empresa.
 
 [![Captura-de-pantalla-2022-03-13-193744.png](https://i.postimg.cc/vmfGfKB7/Captura-de-pantalla-2022-03-13-193744.png)](https://postimg.cc/PLfGk21N)
 
