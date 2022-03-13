@@ -2,7 +2,7 @@
  Django-Css-Sqlite
  ## Aplicacion Web que cuenta con "5" secciones (Home, Servicios, Tienda, Contacto y Blog).
  **Es necesario instalar requeriments.txt que se encuentra disponible**
-Seccion Home.
+++Seccion Home.
 
 ++ Cuenta con informacion sobre la aplicacion de la empresa.
 
