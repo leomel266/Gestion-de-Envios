@@ -28,8 +28,7 @@
 
 + Cuenta con un Widget que funciona como un carro online, donde podes sumar/restar articulos
 y obtenes el resultado de los articulos.
-[![preview3.png](https://i.postimg.cc/jdD0y13W/preview3.png)](https://postimg.cc/gnbTWgWd)
-
+[![Captura-de-pantalla-2022-03-30-163206.png](https://i.postimg.cc/Kz5JhSRG/Captura-de-pantalla-2022-03-30-163206.png)](https://postimg.cc/vgcW5Krk)
 
 **Seccion Contacto**
 
