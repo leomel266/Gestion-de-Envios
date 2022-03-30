@@ -278,3 +278,21 @@ ul.errorlist {
   border-radius: 5px;
   padding: 1px;
 }
+.card{
+  width: 100%;
+  margin: 6px 6px;
+}
+.card-body{
+  text-align: center;
+}
+.card-img-top{
+  width: 300px;
+}
+.btn{
+  text-align: right;
+  color: black;
+}
+.card-footer{
+  width: 300px;
+  padding: 300px;
+}
