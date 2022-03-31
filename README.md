@@ -6,6 +6,16 @@
  #### Introduccion:
  Proyecto que me propuse practiar usando las herramientas como Django, Css y una base de datos como Sqlite3, esta aplicacion es secilla y facil de usar.
 
+**Log-in / Log-out**
++ Tenes la opcion de loguear tu cuenta en la pagina para no perder los datos que tengas agregados en el carrito.
+[![Captura-de-pantalla-2022-03-31-133252.png](https://i.postimg.cc/ZnrcbrCP/Captura-de-pantalla-2022-03-31-133252.png)](https://postimg.cc/ctLYTt76)
+
++ Asi como tambien podes cerrar sesión.
+[![Captura-de-pantalla-2022-03-31-133442.png](https://i.postimg.cc/Jn0vzdLN/Captura-de-pantalla-2022-03-31-133442.png)](https://postimg.cc/dkM4W6D3)
+
+**Registro**
++ Podes registrarte facilmente.
+[![Captura-de-pantalla-2022-03-31-133342.png](https://i.postimg.cc/QxF8y0KW/Captura-de-pantalla-2022-03-31-133342.png)](https://postimg.cc/2VfNqdwz)
 
 **Seccion Home**
 
