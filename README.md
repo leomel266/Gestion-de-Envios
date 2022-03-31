@@ -16,6 +16,8 @@
 
 **Registro**
 + Podes registrarte facilmente.
+
+
 [![Captura-de-pantalla-2022-03-31-133342.png](https://i.postimg.cc/QxF8y0KW/Captura-de-pantalla-2022-03-31-133342.png)](https://postimg.cc/2VfNqdwz)
 
 **Seccion Home**
