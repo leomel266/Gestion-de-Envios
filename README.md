@@ -10,6 +10,7 @@
 + Tenes la opcion de loguear tu cuenta en la pagina para no perder los datos que tengas agregados en el carrito.
 [![Captura-de-pantalla-2022-03-31-133252.png](https://i.postimg.cc/ZnrcbrCP/Captura-de-pantalla-2022-03-31-133252.png)](https://postimg.cc/ctLYTt76)
 
+**Cerrar sesión**
 + Asi como tambien podes cerrar sesión.
 [![Captura-de-pantalla-2022-03-31-133442.png](https://i.postimg.cc/Jn0vzdLN/Captura-de-pantalla-2022-03-31-133442.png)](https://postimg.cc/dkM4W6D3)
 
